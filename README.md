@@ -7,6 +7,9 @@
 - :ram: Founder the ObjCCN
 - :meat_on_bone: Meat lover
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrxiuxing&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 ### Hi there 👋
 
