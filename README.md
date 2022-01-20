@@ -6,13 +6,13 @@ I am Mrxiuxing and Crawler Development Engineer. I'm from China 🇨🇳, living
 
 - :orange_book: Focusing on Python & Web Spider
 - 🌱 I’m currently learning Golang
-- 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrxiuxing&layout=compact&hide=Jupyter Notebook,html" />
+
 
 
 <!--
 ### Hi there 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrxiuxing&layout=compact&hide=Jupyter Notebook,html" />
 
 **Mrxiuxing/Mrxiuxing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
