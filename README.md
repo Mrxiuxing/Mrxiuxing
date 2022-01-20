@@ -7,7 +7,7 @@
 - :ram: Founder the ObjCCN
 - :meat_on_bone: Meat lover
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrxiuxing&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrxiuxing&layout=compact&hide=jupyter" />
 
 
 <!--
